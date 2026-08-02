@@ -26,8 +26,6 @@ Building Secure • Scalable • Intelligent Backend Systems
 
 - 💻 Java Backend Developer passionate about building production-ready applications
 - 🚀 Experienced with Spring Boot, Spring Security, Redis, MySQL & Docker
-- 🧠 Solved **300+ LeetCode** problems
-- 🎯 Looking for Backend Engineering Internship opportunities
 - 🌱 Currently learning Linux, Docker & Unit Testing
 
 ---
