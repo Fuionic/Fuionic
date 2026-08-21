@@ -59,7 +59,7 @@ Building Secure • Scalable • Intelligent Backend Systems
 <img src="https://img.shields.io/badge/Live Demo-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Fuionic/GitAnalyzer">
+<a href="https://github.com/Fuionic/GithubAnalyzer.git">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
