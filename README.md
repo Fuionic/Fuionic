@@ -21,9 +21,9 @@ Building Secure • Scalable • Intelligent Backend Systems
 
 ## 👋 About
 
-- 💻 Java Backend Developer passionate about building production-ready applications
-- 🚀 Experienced with Spring Boot, Spring Security, Redis, MySQL & Docker
-- 🌱 Currently learning Linux, Docker & Unit Testing
+- 💻 Backend Developer passionate about building production-ready applications
+- 🚀 Experienced with Spring Boot, Spring Security, Redis, MySQL & Docker, FastApi
+- 🌱 Currently learning Rag, Docker.
 
 ---
 
