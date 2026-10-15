@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Fuionic Banner"/>
-</p>
 
 <h3 align="center">
 Building Secure • Scalable • Intelligent Backend Systems
